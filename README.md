@@ -33,11 +33,11 @@ For more options like saving the search result, users have to sign up and  sign 
     <p>
         <ol>
             <li>
-                <i>This software uses The google maps API through the client libraries for Google Maps Web Services java version which is licensed using the <b>Apache Licence 2.0</b>b</i>
+                <i>This software uses The google maps API through the client libraries for Google Maps Web Services java version which is licensed using the <b>Apache Licence 2.0</b></i>
              </li>
              <li>
                   <i>This software is licensed under the MIT License.
-<a src="https://github.com/kstanyu/MNeeDS/blob/master/LICENSE"><b>MNeeDS License</b></a>
+<a href="https://github.com/kstanyu/MNeeDS/blob/master/LICENSE"><b>MNeeDS License</b></a>
             </i>
             </li>
         </ol>
