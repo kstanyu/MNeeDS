@@ -37,7 +37,7 @@ For more options like saving the search result, users have to sign up and  sign 
              </li>
              <li>
                   <i>This software is licensed under the MIT License.
-<a src = "https://github.com/kstanyu/MNeeDS/blob/master/LICENSE">MNeeDS License</a>
+<a src="https://github.com/kstanyu/MNeeDS/blob/master/LICENSE"><b>MNeeDS License</b></a>
             </i>
             </li>
         </ol>
